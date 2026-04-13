@@ -1,5 +1,6 @@
 # FLUX Fuzzer — Bytecode Generation + Crash Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 Generate random valid FLUX bytecodes and find VM edge cases.
 
 ## Features
